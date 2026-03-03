@@ -1,0 +1,11 @@
+﻿<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs><linearGradient id="bg" x1="84" y1="74" x2="1060" y2="688"><stop stop-color="#17324F"/><stop offset="1" stop-color="#0A1421"/></linearGradient></defs>
+  <rect width="1200" height="760" rx="24" fill="url(#bg)"/>
+  <rect x="84" y="88" width="1032" height="584" rx="22" fill="#112337" stroke="#59C5FF" stroke-opacity="0.45"/>
+  <rect x="124" y="142" width="438" height="30" rx="8" fill="#325C87"/>
+  <rect x="124" y="204" width="456" height="332" rx="14" fill="#183654"/>
+  <rect x="608" y="204" width="468" height="202" rx="14" fill="#20456D"/>
+  <rect x="608" y="426" width="226" height="110" rx="14" fill="#25517B"/>
+  <rect x="850" y="426" width="226" height="110" rx="14" fill="#1D4268"/>
+  <text x="124" y="620" fill="#DAEEFF" font-size="36" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700">Sample - Real Estate</text>
+</svg>

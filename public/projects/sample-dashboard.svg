@@ -1,0 +1,11 @@
+﻿<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs><linearGradient id="bg" x1="80" y1="60" x2="1080" y2="700"><stop stop-color="#1A3454"/><stop offset="1" stop-color="#0A1626"/></linearGradient></defs>
+  <rect width="1200" height="760" rx="24" fill="url(#bg)"/>
+  <rect x="86" y="86" width="1028" height="588" rx="22" fill="#10253D" stroke="#56BEFF" stroke-opacity="0.45"/>
+  <rect x="126" y="142" width="320" height="28" rx="8" fill="#355D87"/>
+  <rect x="126" y="202" width="478" height="322" rx="14" fill="#173553"/>
+  <rect x="626" y="202" width="448" height="110" rx="14" fill="#1A3D61"/>
+  <rect x="626" y="334" width="214" height="190" rx="14" fill="#224C76"/>
+  <rect x="860" y="334" width="214" height="190" rx="14" fill="#1C3E61"/>
+  <text x="128" y="620" fill="#D8EEFF" font-size="36" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700">Sample - Dashboard</text>
+</svg>

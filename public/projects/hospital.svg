@@ -1,0 +1,18 @@
+﻿<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="100" y1="80" x2="1060" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10243B"/>
+      <stop offset="1" stop-color="#09131F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="28" fill="url(#a)"/>
+  <rect x="86" y="90" width="1028" height="580" rx="24" fill="#101E31" stroke="#56C1FF" stroke-opacity="0.45"/>
+  <rect x="126" y="130" width="412" height="34" rx="8" fill="#2C547B"/>
+  <rect x="126" y="194" width="472" height="332" rx="14" fill="#17314F"/>
+  <rect x="626" y="194" width="448" height="162" rx="14" fill="#1D3C60"/>
+  <rect x="626" y="374" width="216" height="152" rx="14" fill="#22476F"/>
+  <rect x="858" y="374" width="216" height="152" rx="14" fill="#193655"/>
+  <circle cx="207" cy="255" r="44" fill="#2B5985"/>
+  <text x="126" y="642" fill="#D7ECFF" font-size="38" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700">Hospital Appointment Booking</text>
+</svg>
+
